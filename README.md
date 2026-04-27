@@ -5,12 +5,12 @@ The game supports multiple players and follows standard board rules with snakes 
 ## Features
 * Supports 2–4 players.
 * Graphical board using Turtle.
-* Random dice rolls for movement
+* Random dice rolls for movement.
 * Automatic handling of:
-    -Snakes (move down)
-    -Ladders(move up)
-* Displays player positions on the board
-* Turn-based gameplay via terminal input
+    - Snakes (move down).
+    - Ladders(move up).
+* Displays player positions on the board.
+* Turn-based gameplay via terminal input.
 
 ## Technologies Used
 > Python
