@@ -32,11 +32,11 @@ python snake_ladder.py
 4. Press **Enter** to roll the dice each turn
 
 ## Game Rules
-> Players start at position 0
-> Roll a dice (1–6) to move forward
+> Players start at position 0.
+> Roll a dice (1–6) to move forward.
 > Landing on:
-    - a snake (red) -> moves player down
-    - a ladder (green) -> moves player up
+    - a snake (red) : moves player down
+    - a ladder (green) : moves player up
 > Exact roll required to reach **100**
 > First player to reach 100 wins
 
@@ -47,5 +47,5 @@ python snake_ladder.py
   - Game logic
   - Turtle graphics
 
-## Author
+## Authors
 Developed as a group project in 1st year by a team of 4 members.
