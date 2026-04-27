@@ -32,13 +32,13 @@ python snake_ladder.py
 4. Press **Enter** to roll the dice each turn
 
 ## Game Rules
-> Players start at position 0.
-> Roll a dice (1–6) to move forward.
-> Landing on:
-    - a snake (red) : moves player down
-    - a ladder (green) : moves player up
-> Exact roll required to reach **100**
-> First player to reach 100 wins
+1. Players start at position 0.
+2. Roll a dice (1–6) to move forward.
+3. Landing on:
+        - a snake (red) : moves player down
+        - a ladder (green) : moves player up
+4. Exact roll required to reach **100**
+5. First player to reach 100 wins
 
 ## Notes
 > The game uses basic coordinate mapping for board positions
